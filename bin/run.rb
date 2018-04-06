@@ -3,3 +3,5 @@
 # Octokit
 # Pry
 # AwesomePrint
+
+require_relative '../config/environment'
